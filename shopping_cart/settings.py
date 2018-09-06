@@ -136,3 +136,5 @@ HAYSTACK_CONNECTIONS = {
         'INDEX_NAME': 'elasticsearch',
     },
 }
+
+CART_SESSION_ID = 'cart'
